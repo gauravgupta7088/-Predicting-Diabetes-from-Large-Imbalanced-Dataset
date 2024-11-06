@@ -24,3 +24,5 @@ highlighting the effectiveness of the proposed approach in addressing the challe
 of diabetes prediction. This project contributes to the development of accurate
 and reliable models for diagnosis and intervention, ultimately improving patient
 outcomes.
+
+Dataset link: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
